@@ -4,4 +4,5 @@ export default {
   plugins: [
     vitePluginString()
   ]
+  base: '/vite-deploy-demo/'
 }
