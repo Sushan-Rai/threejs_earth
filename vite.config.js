@@ -4,5 +4,5 @@ export default {
   plugins: [
     vitePluginString()
   ]
-  base: '/vite-deploy-demo/'
+  base: '/threejs_earth/'
 }
